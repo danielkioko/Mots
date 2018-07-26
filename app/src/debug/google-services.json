@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "32296153639",
+    "firebase_url": "https://mots-835a6.firebaseio.com",
+    "project_id": "mots-835a6",
+    "storage_bucket": "mots-835a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32296153639:android:728bf7f45850ba64",
+        "android_client_info": {
+          "package_name": "com.danielkioko.mots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32296153639-6fmu20rt357nm46hms1agg4n09kcdc8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danielkioko.mots",
+            "certificate_hash": "5fbce72992cb44938a0a40b961f4419c8e2303aa"
+          }
+        },
+        {
+          "client_id": "32296153639-aif26md7laierttbd1slfsadop2gfops.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "32296153639-aif26md7laierttbd1slfsadop2gfops.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADhRrBlx0nMGr0xroO0zmvveWQMcF3jkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32296153639-aif26md7laierttbd1slfsadop2gfops.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

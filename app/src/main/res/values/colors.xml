@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c44569</color>
+    <color name="colorPrimaryDark">#c44569</color>
+    <color name="colorAccent">#cf6a87</color>
+    <color name="textInputColor">#1e272e</color>
+    <color name="white">#ffffff</color>
+    <color name="innuedo">#a5b1c2</color>
+    <color name="roguePink">#f8a5c2</color>
+</resources>
